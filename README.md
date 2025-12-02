@@ -3,7 +3,6 @@
 This is a simple and offline web app developed in Python to analyze device utilisation data.
 
 ## Project Structure
-
 - `2_device_utilization_data.json`: The source data file.
 - `load_data.py`: A script to load the JSON data into a local SQLite database `analytics.db` - Can be accessed with DBeaver, if needed.
 - `app.py`: The Flask web app that provides the analytics endpoints.
