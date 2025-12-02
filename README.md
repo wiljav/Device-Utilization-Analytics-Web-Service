@@ -12,7 +12,6 @@ This is a simple and offline web app developed in Python to analyze device utili
 ## Installation and Running
 
 ### Prerequisites
-
 - Python 3.13
 - `pip` (Python package installer)
 
